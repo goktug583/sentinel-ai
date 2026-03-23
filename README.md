@@ -4,7 +4,7 @@ Future Talent 201 - App-Preneurship programı kapsamında geliştirilen Sentinel
 Sıradan güvenlik sistemlerinin aksine, sadece izleme yapmaz; tehdidi analiz eder, niyet okur ve otonom müdahale (WAF Deployment) gerçekleştirir.
 
 🚀 Öne Çıkan Özellikler
-Tier-1 Otonom SOC: Ham SIEM loglarını Sentinel Core NLP motoru ile saniyeler içinde deşifre eder.
+Tier-1 Otonom SOC: Ham SIEM loglarını NLP motoru ile saniyeler içinde deşifre eder.
 
 Red Team Battle Arena: Saldırgan hamleleri ile otonom savunma sistemlerinin gerçek zamanlı mücadelesini simüle eder.
 
